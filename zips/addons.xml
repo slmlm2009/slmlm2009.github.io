@@ -20,7 +20,7 @@
         <description lang="en">[COLOR limegreen]Salem[/COLOR]Flix offers a feature-rich Kodi build designed to deliver an immersive and personalized media streaming experience, akin to popular platforms like Netflix. With its sleek interface, intuitive navigation, and extensive collection of add-ons</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/slmlm2009/plugin.program.SalemRepo/</source>
+        <source>https://www.github.com/slmlm2009/plugin.program.SalemFlix/</source>
         <news>
 1.0.0
  - Initial Commit
